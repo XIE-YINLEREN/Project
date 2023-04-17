@@ -1,0 +1,1 @@
+g++ -o "/home/student/projects/LinuxProject/bin/x64/Debug/LinuxProject.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/student/projects/LinuxProject/obj/x64/Debug/demo.o /home/student/projects/LinuxProject/obj/x64/Debug/main.o

@@ -1,0 +1,11 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.248.128”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  demo.cpp
+C:\Users\HP\source\repos\LinuxProject\LinuxProject\demo.cpp(1,17): error : demo.h: 没有那个文件或目录
+C:\Users\HP\source\repos\LinuxProject\LinuxProject\demo.cpp(1,17): error :  #include"demo.h"
+C:\Users\HP\source\repos\LinuxProject\LinuxProject\demo.cpp(1,17): error :                  ^
+C:\Users\HP\source\repos\LinuxProject\LinuxProject\demo.cpp(1,17): error : compilation terminated.
