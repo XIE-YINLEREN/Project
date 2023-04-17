@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\STL\x64\Debug\STL.exe
+D:\VS2022\source\repos\STL\x64\Debug\STL.exe

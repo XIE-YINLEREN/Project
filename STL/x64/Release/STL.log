@@ -1,0 +1,11 @@
+﻿  Deque.cpp
+  main.cpp
+  Map.cpp
+  String.cpp
+C:\Users\HP\source\repos\STL\String.cpp(7,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Vector.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  STL.vcxproj -> C:\Users\HP\source\repos\STL\x64\Release\STL.exe
