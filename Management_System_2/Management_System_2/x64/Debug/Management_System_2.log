@@ -1,0 +1,21 @@
+﻿  File.cpp
+  Function.cpp
+  Main.cpp
+  Management.cpp
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Management.cpp(89,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Management.cpp(95,4): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Member.cpp
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(45,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(45,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(45,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(45,10): message : 此参数用作缓冲区大小
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(55,12): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(55,12): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(55,12): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(55,12): message : 此参数用作缓冲区大小
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(61,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(61,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(61,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\HP\source\repos\Management_System_2\Management_System_2\Member.cpp(61,10): message : 此参数用作缓冲区大小
+  正在生成代码...
+  Management_System_2.vcxproj -> C:\Users\HP\source\repos\Management_System_2\x64\Debug\Management_System_2.exe

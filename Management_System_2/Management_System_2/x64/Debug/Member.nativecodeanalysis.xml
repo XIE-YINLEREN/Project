@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Member.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>大小不匹配: 已将“unsigned __int64”作为 _Param_(3) 传递，但需要使用“unsigned int”来调用“scanf_s”。</DESCRIPTION>
+    <FUNCTION>Member_Create</FUNCTION>
+    <DECORATED>?Member_Create@@YAXPEAPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Member.cpp</FILENAME>
+      <LINE>40</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6271</DEFECTCODE>
+    <DESCRIPTION>传递给 "scanf_s" 的额外参数。</DESCRIPTION>
+    <FUNCTION>Member_Create</FUNCTION>
+    <DECORATED>?Member_Create@@YAXPEAPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Member.cpp</FILENAME>
+      <LINE>52</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>Member_Create</FUNCTION>
+    <DECORATED>?Member_Create@@YAXPEAPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Member.cpp</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>Member_Create</FUNCTION>
+    <DECORATED>?Member_Create@@YAXPEAPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Member.cpp</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>Member_Create</FUNCTION>
+    <DECORATED>?Member_Create@@YAXPEAPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Member.cpp</FILENAME>
+      <LINE>76</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>Member_Create</FUNCTION>
+    <DECORATED>?Member_Create@@YAXPEAPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Member.cpp</FILENAME>
+      <LINE>78</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “scanf”。</DESCRIPTION>
+    <FUNCTION>Member_Create</FUNCTION>
+    <DECORATED>?Member_Create@@YAXPEAPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

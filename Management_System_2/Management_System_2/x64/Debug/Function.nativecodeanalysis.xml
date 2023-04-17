@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Function.cpp</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>大小不匹配: 已将“char”作为 _Param_(2) 传递，但需要使用“32 bit operand”来调用“scanf_s”。这表示可能存在严重错误。若针对像 scanf 这样的函数报告此信息，可能表示发生缓冲区不足或溢出。</DESCRIPTION>
+    <FUNCTION>Choice_Function_Member</FUNCTION>
+    <DECORATED>?Choice_Function_Member@@YAXPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Function.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “_getch”。</DESCRIPTION>
+    <FUNCTION>Choice_Function_Member</FUNCTION>
+    <DECORATED>?Choice_Function_Member@@YAXPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Function.cpp</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “_getch”。</DESCRIPTION>
+    <FUNCTION>Choice_Function_Member</FUNCTION>
+    <DECORATED>?Choice_Function_Member@@YAXPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Function.cpp</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “_getch”。</DESCRIPTION>
+    <FUNCTION>Choice_Function_Member</FUNCTION>
+    <DECORATED>?Choice_Function_Member@@YAXPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Function.cpp</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “_getch”。</DESCRIPTION>
+    <FUNCTION>Choice_Function_Member</FUNCTION>
+    <DECORATED>?Choice_Function_Member@@YAXPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Function.cpp</FILENAME>
+      <LINE>58</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “_getch”。</DESCRIPTION>
+    <FUNCTION>Choice_Function_Member</FUNCTION>
+    <DECORATED>?Choice_Function_Member@@YAXPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\HP\source\repos\Management_System_2\Management_System_2\</FILEPATH>
+      <FILENAME>Function.cpp</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “_getch”。</DESCRIPTION>
+    <FUNCTION>Choice_Function_Member</FUNCTION>
+    <DECORATED>?Choice_Function_Member@@YAXPEAUlinklist@@@Z</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

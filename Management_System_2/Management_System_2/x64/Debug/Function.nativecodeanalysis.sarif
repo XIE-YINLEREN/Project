@@ -1,0 +1,257 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6328",
+          "message": {
+            "text": "大小不匹配: 已将“char”作为 _Param_(2) 传递，但需要使用“32 bit operand”来调用“scanf_s”。这表示可能存在严重错误。若针对像 scanf 这样的函数报告此信息，可能表示发生缓冲区不足或溢出。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Function.cpp"
+                },
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 3,
+                  "endLine": 22,
+                  "endColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Choice_Function_Member",
+                  "decoratedName": "?Choice_Function_Member@@YAXPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “_getch”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Function.cpp"
+                },
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 4,
+                  "endLine": 30,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Choice_Function_Member",
+                  "decoratedName": "?Choice_Function_Member@@YAXPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “_getch”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Function.cpp"
+                },
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 4,
+                  "endLine": 37,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Choice_Function_Member",
+                  "decoratedName": "?Choice_Function_Member@@YAXPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “_getch”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Function.cpp"
+                },
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 4,
+                  "endLine": 44,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Choice_Function_Member",
+                  "decoratedName": "?Choice_Function_Member@@YAXPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “_getch”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Function.cpp"
+                },
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 4,
+                  "endLine": 51,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Choice_Function_Member",
+                  "decoratedName": "?Choice_Function_Member@@YAXPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “_getch”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Function.cpp"
+                },
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 4,
+                  "endLine": 58,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Choice_Function_Member",
+                  "decoratedName": "?Choice_Function_Member@@YAXPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “_getch”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Function.cpp"
+                },
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 4,
+                  "endLine": 68,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Choice_Function_Member",
+                  "decoratedName": "?Choice_Function_Member@@YAXPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Function.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "d12b090e717c9325a7d7f443b2a5beb302b21b3b04ae16db946e4742d0e107bf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hp/source/repos/management_system_2/management_system_2/function.h"
+          },
+          "hashes": {
+            "sha-256": "47d7d4dbf515fe41873c3f69c1c4782068986cad2f259bf7d6ba8ca8b1a5cd6e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hp/source/repos/management_system_2/management_system_2/member.h"
+          },
+          "hashes": {
+            "sha-256": "cf823aef1e765d64731e04960cf2eb57498a470dcffe24a8b19d77906db90443"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hp/source/repos/management_system_2/management_system_2/file.h"
+          },
+          "hashes": {
+            "sha-256": "bace8d60ae1b5a36601363a06735be48002cc86ba2f477b12ade6c1647c59ca7"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6328",
+          "message": {
+            "text": "大小不匹配: 已将“unsigned __int64”作为 _Param_(3) 传递，但需要使用“unsigned int”来调用“scanf_s”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Member.cpp"
+                },
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 2,
+                  "endLine": 38,
+                  "endColumn": 40
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Member_Create",
+                  "decoratedName": "?Member_Create@@YAXPEAPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6271",
+          "message": {
+            "text": "传递给 \"scanf_s\" 的额外参数。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Member.cpp"
+                },
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 2,
+                  "endLine": 40,
+                  "endColumn": 43
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Member_Create",
+                  "decoratedName": "?Member_Create@@YAXPEAPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Member.cpp"
+                },
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 3,
+                  "endLine": 52,
+                  "endColumn": 27
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Member_Create",
+                  "decoratedName": "?Member_Create@@YAXPEAPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Member.cpp"
+                },
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 2,
+                  "endLine": 57,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Member_Create",
+                  "decoratedName": "?Member_Create@@YAXPEAPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Member.cpp"
+                },
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 4,
+                  "endLine": 67,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Member_Create",
+                  "decoratedName": "?Member_Create@@YAXPEAPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Member.cpp"
+                },
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 2,
+                  "endLine": 76,
+                  "endColumn": 24
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Member_Create",
+                  "decoratedName": "?Member_Create@@YAXPEAPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "返回值被忽略: “scanf”。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Member.cpp"
+                },
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 2,
+                  "endLine": 78,
+                  "endColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Member_Create",
+                  "decoratedName": "?Member_Create@@YAXPEAPEAUlinklist@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/HP/source/repos/Management_System_2/Management_System_2/Member.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f1b272a77fa10ca2da4464d154e56ae81ef01c5fae0c212f29830e6408756428"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hp/source/repos/management_system_2/management_system_2/member.h"
+          },
+          "hashes": {
+            "sha-256": "cf823aef1e765d64731e04960cf2eb57498a470dcffe24a8b19d77906db90443"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hp/source/repos/management_system_2/management_system_2/file.h"
+          },
+          "hashes": {
+            "sha-256": "bace8d60ae1b5a36601363a06735be48002cc86ba2f477b12ade6c1647c59ca7"
+          }
+        }
+      ]
+    }
+  ]
+}
