@@ -1,0 +1,19 @@
+﻿  Draw.cpp
+  File.cpp
+  Function.cpp
+C:\Users\HP\source\repos\Tree_1\Tree_1\Function.cpp(14,24): warning C4474: scanf_s: 格式字符串中传递的参数太多
+C:\Users\HP\source\repos\Tree_1\Tree_1\Function.cpp(14,24): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  Interface.cpp
+  main.cpp
+  Queue.cpp
+  Tree.cpp
+C:\Users\HP\source\repos\Tree_1\Tree_1\Tree.cpp(26,18): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\Users\HP\source\repos\Tree_1\Tree_1\Tree.cpp(214,26): warning C4474: scanf_s: 格式字符串中传递的参数太多
+C:\Users\HP\source\repos\Tree_1\Tree_1\Tree.cpp(214,26): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\HP\source\repos\Tree_1\Tree_1\Tree.cpp(198): warning C4715: “TreeSearch”: 不是所有的控件路径都返回值
+C:\Users\HP\source\repos\Tree_1\Tree_1\File.cpp(42): warning C4172: 返回局部变量或临时变量的地址: str
+  All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Tree_1.vcxproj -> C:\Users\HP\source\repos\Tree_1\x64\Release\Tree_1.exe
