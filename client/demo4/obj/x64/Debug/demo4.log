@@ -1,0 +1,7 @@
+﻿D:\vs studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(C:\Users\HP\source\repos\demo4\demo4\obj\x64\Debug\)包含从另一个项目(demo4.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  正在验证源
+  正在将源远程复制到“192.168.248.128”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在链接对象

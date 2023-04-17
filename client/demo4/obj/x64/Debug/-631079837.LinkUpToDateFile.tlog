@@ -1,0 +1,1 @@
+g++ -o "/home/student/projects/client/bin/x64/Debug/client.out" -Wl,--no-undefined -Wl,-L"/home/student/projects/client/../../../../OneDrive/桌面/sqlite-amalgamation-3410000" -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/student/projects/client/obj/x64/Debug/function.o /home/student/projects/client/obj/x64/Debug/main.o -lpthread -lsqlite3
