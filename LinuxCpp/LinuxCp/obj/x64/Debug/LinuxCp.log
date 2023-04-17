@@ -1,0 +1,50 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.248.128”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  deque.cpp
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(1,9): warning : #pragma once in main file
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(1,9): warning :  #pragma once
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(1,9): warning :          ^
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(13,6): warning : ‘man::id’ will be initialized after [-Wreorder]
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(13,6): warning :   int id;
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(13,6): warning :       ^
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(12,6): warning : ‘int man::money’ [-Wreorder]
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(12,6): warning :   int money;
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(12,6): warning :       ^
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(11,2): warning : when initialized here [-Wreorder]
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(32,14): error : ‘_sleep’ was not declared in this scope
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(32,14): error :    _sleep(1000);
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\deque.cpp(32,14): error :               ^
+  map.cpp
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\map.cpp(1,9): warning : #pragma once in main file
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\map.cpp(1,9): warning :  #pragma once
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\map.cpp(1,9): warning :          ^
+  Mystring.cpp
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(1,9): warning : #pragma once in main file
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(1,9): warning :  #pragma once
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(1,9): warning :          ^
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(21,35): warning : ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(23,6): warning : conversion to ‘int’ from ‘size_t {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(23,6): warning :   len = strlen(_str);
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(23,6): warning :       ^
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(55,6): warning : conversion to ‘int’ from ‘size_t {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(55,6): warning :   len = strlen(_str);
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\Mystring.cpp(55,6): warning :       ^
+  studnt.cpp
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\studnt.cpp(1,9): warning : #pragma once in main file
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\studnt.cpp(1,9): warning :  #pragma once
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\studnt.cpp(1,9): warning :          ^
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\studnt.cpp(70,20): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\studnt.cpp(70,20): warning :   for (int i = 0; i < A.size(); i++)
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\studnt.cpp(70,20): warning :                     ^
+  template.cpp
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\template.cpp(1): warning : ignoring #pragma   [-Wunknown-pragmas]
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\template.cpp(1): warning :  #pragma
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\template.cpp(1): warning :  ^
+  template1.cpp
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\template1.cpp(1,9): warning : #pragma once in main file
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\template1.cpp(1,9): warning :  #pragma once
+C:\Users\HP\source\repos\LinuxCpp\LinuxCp\template1.cpp(1,9): warning :          ^
